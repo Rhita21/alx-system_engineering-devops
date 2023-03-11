@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown $(if [ "$(whoami)" = "root" ] hello
+sudo chown $(if [ "$(whoami)" = "root" ] betty hello
